@@ -5,7 +5,6 @@ on:
     branches:    
       - master
       - develop
-      - develop2
       - 'develop2'
       - 'develop'
       - 'master'
