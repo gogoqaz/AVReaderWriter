@@ -6,3 +6,7 @@
 //
 
 import Foundation
+
+class test_swift_lint {
+    
+}
